@@ -32,7 +32,7 @@
 <br/>
 <br/>
 
-<img align="left" alt="mongodb" src="https://img.shields.io/badge/-MongoDB-white?&style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+<img align="left" width="82px" alt="mongodb" src="https://img.shields.io/badge/-MongoDB-white?&style=for-the-badge&logo=mongodb&logoColor=47A248"/>
 <img align="left" alt="express" src="https://img.shields.io/badge/-Node.js-black?&style=for-the-badge&logo=node.js&logoColor=339933"/>
 
 
