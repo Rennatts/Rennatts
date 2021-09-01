@@ -45,6 +45,9 @@
 <br />
 <br />
 
+## ⚙ Statistics and Languages 
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=Rennatts&show_icons=true&theme=tokyonight"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rennatts&layout=compact&theme=tokyonight"> <br>
+
 
 [medium]: https://medium.com/@renatamachado_73871
 [twitter]: https://twitter.com/rennatts
