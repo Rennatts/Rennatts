@@ -34,7 +34,7 @@
 <br/>
 <br/>
 
-<img align="left" alt="mongodb" height="20px" src="https://img.shields.io/badge/MongoDB-4DB33D?logo=mongodb&logoColor=white&style=for-the-badge"/>
+<img align="left" alt="mongodb" height="40px" src="https://img.shields.io/badge/MongoDB-4DB33D?logo=mongodb&logoColor=white&style=for-the-badge"/>
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/-Node.js-black?&style=for-the-badge&logo=node.js&logoColor=339933"/>
 <img align="left" alt="express" src="https://img.shields.io/badge/-Express-grey?&style=for-the-badge&logo=express&logoColor=white"/>
 
