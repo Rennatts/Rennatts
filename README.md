@@ -1,12 +1,13 @@
 ### Hello guys, I´m Renata, a Brazilian software developer :brazil: :grinning:
 
-- I´m currently a front-end developer, but I also have an interest in Full Stack
+- I´m currently a front-end developer, but I also have an interest in Full Stack :blush:
 - I´m a self-taught developer :woman_technologist:
-- I'm self-taught in English
-- - currently learning korean :kr:
+- I taught myself English 
+- I'm currently learning korean :kr: 
 - I´m a very curious person, with the internet I believe I can learn everything I put my heart and soul into it
-- My goal is to write every week a blog post on Medium
-- some facts about me: I lived in South Korea :kr:, I have MSc in Logistics
+- I have a goal to write every week a blog post on Medium :page_facing_up:
+- Some facts about me: I lived in South Korea :kr:, I have MSc in Logistics :woman_student: and I love cooking :woman_cook:
+- I love the tech community :purple_heart:
 
 
 
