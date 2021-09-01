@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="82px" height="40px" src="https://github.com/Medium/medium-logos/blob/master/01_Logo/01_Black/SVG/Medium-Logo-Black-RGB.svg" />][medium]
+[<img align="left" alt="codeSTACKr.com" width="92px" height="20px" src="https://github.com/Medium/medium-logos/blob/master/01_Logo/01_Black/SVG/Medium-Logo-Black-RGB.svg" />][medium]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -34,7 +34,7 @@
 <br/>
 <br/>
 
-<img align="left" alt="MongoDB" width="86px" height="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"/>
+<img align="left" alt="MongoDB" width="96px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"/>
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/-Node.js-black?&style=for-the-badge&logo=node.js&logoColor=339933"/>
 <img align="left" alt="express" src="https://img.shields.io/badge/-Express-grey?&style=for-the-badge&logo=express&logoColor=white"/>
 
