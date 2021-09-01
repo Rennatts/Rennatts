@@ -2,11 +2,11 @@
 
 - I´m currently a front-end developer, but I also have an interest in Full Stack
 - I´m a self-taught developer :woman_technologist:
-- I self-taught english, 
+- I'm self-taught in English
+- - currently learning korean :kr:
 - I´m a very curious person, with the internet I believe I can learn everything I put my heart and soul into it
-- currently learning korean :kr:
 - My goal is to write every week a blog post on Medium
-- some facts about me: I lived in South Korea, I have MSc in Logistics
+- some facts about me: I lived in South Korea :kr:, I have MSc in Logistics
 
 
 
@@ -32,7 +32,7 @@
 <br/>
 <br/>
 
-[<img align="left" alt="MongoDB" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
+<img align="left" alt="MongoDB" width="66px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="express" src="https://img.shields.io/badge/-Node.js-black?&style=for-the-badge&logo=node.js&logoColor=339933"/>
 
 
