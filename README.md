@@ -23,15 +23,15 @@
 ### Languages and Tools:
 
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img align="left" alt="HTML" width="26px" src="https://img.shields.io/badge/-html5-E34F26?&style=for-the-badge&logo=html5&logoColor=white" />
-<img align="left" alt="CSS" width="26px" src="https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
+<img align="left" alt="HTML" width="46px" src="https://img.shields.io/badge/-html5-E34F26?&style=for-the-badge&logo=html5&logoColor=white" />
+<img align="left" alt="CSS" width="46px" src="https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
+<img align="left" alt="Sass" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="46px" src="https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="python" src="https://img.shields.io/badge/python-4B8BBE?logo=python&logoColor=white&style=for-the-badge" />
-<img align="left" alt="mongodb" src="(https://img.shields.io/badge/-MongoDB-white?&style=for-the-badge&logo=mongodb&logoColor=47A248"/>
-<img align="left" alt="express" src="(https://img.shields.io/badge/-Node.js-black?&style=for-the-badge&logo=node.js&logoColor=339933"/>
+<img align="left" alt="mongodb" src="https://img.shields.io/badge/-MongoDB-white?&style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+<img align="left" alt="express" src="https://img.shields.io/badge/-Node.js-black?&style=for-the-badge&logo=node.js&logoColor=339933"/>
 
 
 <br />
