@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="92px" height="20px" src="https://download.logo.wine/logo/Medium_(website)/Medium_(website)-Logo.wine.png" />][medium]
+[<img align="left" alt="codeSTACKr.com" width="92px" height="50px" src="https://download.logo.wine/logo/Medium_(website)/Medium_(website)-Logo.wine.png" />][medium]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
