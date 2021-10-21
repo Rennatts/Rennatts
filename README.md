@@ -3,7 +3,7 @@
 - I´m currently a front-end developer, but I also have an interest in Full Stack :blush:
 - I´m a self-taught developer :woman_technologist:
 - I taught myself English :us:
-- I'm currently learning korean :kr: 한국어 가능 
+- :kr: 한국어 가능 
 - I´m a very curious person, with the internet I believe I can learn everything I put my heart and soul into it
 - I have a goal to write every week a blog post on Medium :page_facing_up:
 - Some facts about me: I lived in South Korea :kr:, I have MSc in Logistics :woman_student: and I love cooking :woman_cook:
