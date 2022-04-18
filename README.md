@@ -1,6 +1,6 @@
-### Hello guys, I´m Renata, a Brazilian software developer :brazil: :grinning:
+### Hello guys, I´m Renata, a Brazilian software engineer :brazil: :grinning:
 
-- I´m currently a front-end developer, aiming to become a Full Stack :blush:
+- I´m currently fullstack developer:blush:
 - I´m a self-taught developer :woman_technologist:
 - I taught myself English :us:
 - 한국어 가능 :kr:
