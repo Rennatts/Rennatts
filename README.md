@@ -2,10 +2,7 @@
 
 - I´m currently fullstack developer
 - I´m a self-taught developer :woman_technologist:
-- I taught myself English :us:
 - 한국어 가능 :kr:
-- I´m a very curious person, with the internet I believe I can learn everything I put my heart and soul into it
-- Some facts about me: I lived in South Korea :kr:, I have MSc in Logistics :woman_student: and I love cooking :woman_cook:
 - I love the tech community :purple_heart:
 
 
