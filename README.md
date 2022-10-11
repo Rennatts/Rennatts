@@ -33,14 +33,6 @@
 <br />
 <br />
 
-## ⚙ Statistics and Languages 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=Rennatts&show_icons=true&theme=tokyonight"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rennatts&layout=compact&theme=tokyonight"> <br>
-
-## ❤ Views and Followers
-<a href="https://github.com/Rennatts/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Rennatts">
-</a>
-<a href="https://github.com/Rennatts?tab=followers"><img src="https://img.shields.io/github/followers/Rennatts?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 [medium]: https://medium.com/@renatamachado_73871
