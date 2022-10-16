@@ -16,7 +16,7 @@
   <img align="left" alt="HTML" width="86px" src="https://img.shields.io/badge/-html5-E34F26?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img align="left" alt="CSS" width="80px" src="https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img align="left" alt="JavaScript" width="85px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/TypeScript_Logo_%28Blue%29.svg/2560px-TypeScript_Logo_%28Blue%29.svg.png"/>
-    <img align="left" alt="JavaScript" width="85px" height="30px" src="https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-    badge&logo=javascript&logoColor=black"/>
+    <img align="left" alt="TypeScript" width="85px" height="30px" src="[https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-    badge&logo=javascript&logoColor=black](https://miro.medium.com/max/1004/1*ZfCTE6kZArxc0Nr_MybXPQ.png)"/>
   <img align="left" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4DB33D?logo=mongodb&logoColor=white&style=for-the-badge"/>
 </div>
 
