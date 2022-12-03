@@ -41,4 +41,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rennatts&theme=dracula)](https://github.com/Rennatts/github-readme-stats)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rennatts&hide=css,scss,html&theme=tokyonight)
