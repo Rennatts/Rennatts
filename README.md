@@ -39,3 +39,6 @@
 [linkedin]: https://www.linkedin.com/in/renata-machado11/
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rennatts)](https://github.com/Rennatts/github-readme-stats)
+
+
