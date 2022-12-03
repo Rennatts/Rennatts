@@ -1,7 +1,8 @@
 ### Hello guys, I´m Renata, a Brazilian software engineer :brazil: :grinning:
 
-- I´m currently fullstack developer
-- I´m a self-taught developer :woman_technologist:
+- Fullstack developer
+- self-taught developer :woman_technologist:
+- Lived in South Korea for 4 years, currently living in Brazil
 - 한국어 가능 :kr:
 - I love the tech community :purple_heart:
 
