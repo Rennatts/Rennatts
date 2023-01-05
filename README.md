@@ -5,7 +5,6 @@
 - Lived in South Korea for 4 years, currently living in Brazil
 - 한국어 가능 :kr:
 - I love the tech community :purple_heart:
-- Enthusiastic about technology and how our tech community can give so much to the society 
 
 <br />
 
