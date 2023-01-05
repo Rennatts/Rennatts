@@ -1,6 +1,6 @@
 ### Hello!!! I´m Renata, a Brazilian software engineer :brazil:
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/MPsZGvgi0kdSyNtfku/giphy.gif" width="360px" height="300px"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/MPsZGvgi0kdSyNtfku/giphy.gif" width="400px"/>
 
 - Fullstack & self-taught developer :woman_technologist:
 - Msc in science of logistics - Inha University, South Korea(2018)
