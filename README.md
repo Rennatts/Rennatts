@@ -20,17 +20,17 @@
 - My favorite sport is figure skating, I watch all the main competitions :snowflake:
 
 
-### Languages and Tools
--Front-end
+### Languages and Tools:
+- Front-end:
 React, Angular
 
--Mobile
+- Mobile:
 React Native
 
--Back-end
+- Back-end:
 Nestjs, Nodejs
 
--Database
+- Database:
 MongoDB, Postgresql
 
 
