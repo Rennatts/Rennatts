@@ -34,23 +34,10 @@ Nestjs, Nodejs
 MongoDB, Postgresql
 
 
-<br />
-<br />
-
-<div>
-  <img align="left" alt="python" src="https://img.shields.io/badge/python-4B8BBE?logo=python&logoColor=white&style=for-the-badge"/>
-  <img align="left" alt="nodejs" src="https://img.shields.io/badge/-Node.js-black?&style=for-the-badge&logo=node.js&logoColor=339933"/>
-  <img align="left" alt="express" src="https://img.shields.io/badge/-Express-grey?&style=for-the-badge&logo=express&logoColor=white"/>
-</div>
 
 <br />
 <br />
 
-
-
-[medium]: https://medium.com/@renatamachado_73871
-[twitter]: https://twitter.com/rennatts
-[linkedin]: https://www.linkedin.com/in/renata-machado11/
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rennatts&hide=css,scss,html&theme=tokyonight)
@@ -58,4 +45,11 @@ MongoDB, Postgresql
 
 📈 my github stats
 
-<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=rennatts&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=rennatts&show_icons=true&theme=gotham" alt="abhisheknaiidu" 
+                       
+                       
+                       
+                       
+[medium]: https://medium.com/@renatamachado_73871
+[twitter]: https://twitter.com/rennatts
+[linkedin]: https://www.linkedin.com/in/renata-machado11/
