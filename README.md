@@ -8,7 +8,7 @@
 
 <br />
 
-## More things about me:
+## Non-tech related things about me:
 - I really into reading classic books
 - Enjoy learning about conscieness and psycology
 - I love learning about astronomy and astrology, I know its weird to like both, but i see no conflict :satisfied:
