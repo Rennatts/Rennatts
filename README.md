@@ -11,7 +11,7 @@
 
 <br />
 
-## Non-tech related things about me:
+### Non-tech related things about me:
 - I'm really into reading classic books :books:
 - I enjoy learning about conscieness and psycology
 - I love learning about astronomy and astrology, I know its weird to like both, but i see no conflict :satisfied:
