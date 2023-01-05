@@ -6,8 +6,7 @@
 - 한국어 가능 :kr:
 - I love the tech community :purple_heart:
 
-
-<iframe src="https://giphy.com/embed/MPsZGvgi0kdSyNtfku" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/MPsZGvgi0kdSyNtfku">via GIPHY</a></p>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/MPsZGvgi0kdSyNtfku/giphy.gif" width="360px"/>
 
 <br />
 
