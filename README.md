@@ -20,11 +20,18 @@
 - My favorite sport is figure skating, I watch all the main competitions :snowflake:
 
 
-### Languages and Tools:
-Front-end: React, Angular
-Mobile: React Native
-Back-end: Nestjs, Nodejs
-Database: MongoDB, Postgresql
+### Languages and Tools
+-Front-end
+React, Angular
+
+-Mobile
+React Native
+
+-Back-end
+Nestjs, Nodejs
+
+-Database
+MongoDB, Postgresql
 
 
 <br />
@@ -35,7 +42,6 @@ Database: MongoDB, Postgresql
   <img align="left" alt="nodejs" src="https://img.shields.io/badge/-Node.js-black?&style=for-the-badge&logo=node.js&logoColor=339933"/>
   <img align="left" alt="express" src="https://img.shields.io/badge/-Express-grey?&style=for-the-badge&logo=express&logoColor=white"/>
 </div>
-
 
 <br />
 <br />
