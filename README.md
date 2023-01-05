@@ -1,6 +1,6 @@
 ### Hello guys, I´m Renata, a Brazilian software engineer :brazil: :grinning:
 
-- Fullstack developer
+- Fullstack
 - self-taught developer :woman_technologist:
 - Lived in South Korea for 4 years, currently living in Brazil
 - 한국어 가능 :kr:
@@ -8,6 +8,14 @@
 
 <br />
 
+## More things about me:
+- I really into reading classic books
+- Enjoy learning about conscieness and psycology
+- I love learning about astronomy and astrology, I know its weird to like both, but i see no conflict :satisfied:
+- In 2023 I will start to learn french
+- I have been learning about judaism and kabbalah for 5 years already
+- I'm inside korean entertainment hole since 2009 and I can't leave
+- My favorite sport is figure skating, I watch all the main competitions
 
 
 ### Languages and Tools:
@@ -41,3 +49,8 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rennatts&hide=css,scss,html&theme=tokyonight)
+
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
