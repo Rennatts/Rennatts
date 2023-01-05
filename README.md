@@ -9,13 +9,12 @@
 <br />
 
 ## Non-tech related things about me:
-- I really into reading classic books
-- Enjoy learning about conscieness and psycology
+- I'm really into reading classic books :books:
+- I enjoy learning about conscieness and psycology
 - I love learning about astronomy and astrology, I know its weird to like both, but i see no conflict :satisfied:
-- In 2023 I will start to learn french
-- I have been learning about judaism and kabbalah for 5 years already
+- In 2023 I will start to learn french 
 - I'm inside korean entertainment hole since 2009 and I can't leave
-- My favorite sport is figure skating, I watch all the main competitions
+- My favorite sport is figure skating, I watch all the main competitions :snowflake:
 
 
 ### Languages and Tools:
