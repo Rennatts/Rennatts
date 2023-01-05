@@ -42,6 +42,6 @@ MongoDB, Postgresql
 [twitter]: https://twitter.com/rennatts
 [linkedin]: https://www.linkedin.com/in/renata-machado11/
 
-<p align="left">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rennatts&hide=css,scss,html&theme=tokyonight)</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rennatts&hide=css,scss,html&theme=tokyonight)
 
-<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=rennatts&show_icons=true&theme=gotham" alt="abhisheknaiidu" /p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=rennatts&show_icons=true&theme=gotham" alt="abhisheknaiidu" /p>
