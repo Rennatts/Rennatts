@@ -12,8 +12,8 @@
 - I'm really into reading classic books :books:
 - I enjoy learning about conscieness and psycology
 - I love learning about astronomy and astrology, I know its weird to like both, but i see no conflict :satisfied:
-- In 2023 I will start to learn french 
-- I'm inside korean entertainment hole since 2009 and I can't leave
+- In 2023 I will start to learn french :fr:
+- I'm inside korean entertainment hole since 2009 and I can't leave :kr: :purple_heart:
 - My favorite sport is figure skating, I watch all the main competitions :snowflake:
 
 
