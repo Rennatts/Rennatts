@@ -38,6 +38,8 @@ MongoDB, Postgresql
 <br />
 <br />
 
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=rennatts&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
 [medium]: https://medium.com/@renatamachado_73871
 [twitter]: https://twitter.com/rennatts
 [linkedin]: https://www.linkedin.com/in/renata-machado11/
