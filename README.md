@@ -13,13 +13,13 @@
 
 ### Languages and Tools:
 - Front-end:
-React, Angular
+React, React Native, Angular, Nextjs
 
 - Mobile:
 React Native
 
 - Back-end:
-Nestjs, Nodejs
+Nestjs, Nodejs, Express
 
 - Database:
 MongoDB, Postgresql
