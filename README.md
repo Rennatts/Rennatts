@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/UWZa4tQ1TXLJFEkuGP/giphy.gif" width="400px"/>
 
 - Fullstack & self-taught developer :woman_technologist:
-- Msc in science of logistics - Inha University, South Korea(2018)
+- Msc in science of logistics 
 - Lived in South Korea for 4 years, currently living in Brazil
 - 한국어 가능 :kr:
 - I love the tech community :purple_heart:
