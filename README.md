@@ -38,6 +38,6 @@ https://www.renatamachado.tech/
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rennatts&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rennatts&hide=css,scss,html&theme=tokyonight) -->
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rennatts&hide=css,scss,html&theme=tokyonight)
 
-<!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=rennatts&show_icons=true&theme=gotham" alt="abhisheknaiidu" /p> -->
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=rennatts&show_icons=true&theme=gotham" alt="abhisheknaiidu" /p>
