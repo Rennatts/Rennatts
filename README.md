@@ -19,10 +19,10 @@ React, React Native, Angular, Nextjs
 React Native
 
 - Back-end:
-Nestjs, Nodejs, Express
+Nestjs, Nodejs, Express, GoLang
 
 - Database:
-MongoDB, Postgresql
+MongoDB, Postgresql, DynamoDB, mySQL
 
 ### Check out my portfolio!!
 https://www.renatamachado.tech/
@@ -34,6 +34,9 @@ https://www.renatamachado.tech/
 [medium]: https://medium.com/@renatamachado_73871
 [twitter]: https://twitter.com/rennatts
 [linkedin]: https://www.linkedin.com/in/renata-machado11/
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rennatts&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rennatts&hide=css,scss,html&theme=tokyonight) -->
 
