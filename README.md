@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/UWZa4tQ1TXLJFEkuGP/giphy.gif" width="400px"/>
 
-- Fullstack & self-taught developer :woman_technologist:
+- Fullstack Node React Angular Golang
 - Msc in science of logistics 
 - Lived in South Korea for 4 years, currently living in Brazil
 - 한국어 가능 :kr:
@@ -19,7 +19,7 @@ React, React Native, Angular, Nextjs
 React Native
 
 - Back-end:
-Nestjs, Nodejs, Express, GoLang
+Nodejs, GoLang
 
 - Database:
 MongoDB, Postgresql, DynamoDB, mySQL
