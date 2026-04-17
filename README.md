@@ -1,33 +1,44 @@
-### Hello!!! I´m Renata, a Brazilian software engineer :brazil:
+### Hey there 👋 I'm Renata — Front-End Engineer based in Brazil 🇧🇷
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/UWZa4tQ1TXLJFEkuGP/giphy.gif" width="400px"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/UWZa4tQ1TXLJFEkuGP/giphy.gif" width="350px"/>
 
-- Fullstack Node React Angular Golang
-- Msc in science of logistics 
-- Lived in South Korea for 4 years, currently living in Brazil
-- 한국어 가능 :kr:
-- I love the tech community :purple_heart:
+I'm a Front-End Engineer focused on building scalable, high-performance applications with modern architectures.
+I have experience working on global products, collaborating closely with product teams, and driving technical decisions.
 
+* 💻 Strong experience with **React, Next.js and micro front-end architectures**
+* 🚀 Acting as **main developer**, bridging technical and product decisions
+* 🧠 Experience with **state management (XState, RxJS)** and complex flows
+* 📊 Focus on **performance, user experience and scalability**
+* 🌍 Experience with international products (i18n, multi-country platforms)
+* 🇰🇷 Lived in South Korea for 4 years — 한국어 가능
 
-<br />
+---
 
-### Languages and Tools:
-- Front-end:
-React, React Native, Angular, Nextjs
+### 🛠️ Tech Stack
 
-- Mobile:
-React Native
+**Front-end**
+React · Next.js · React Native · Angular
 
-- Back-end:
-Nodejs, GoLang
+**State Management**
+XState · RxJS
 
-- Database:
-MongoDB, Postgresql, DynamoDB, mySQL
+**Back-end**
+Node.js · NestJS · Express
 
-### Check out my portfolio!!
-https://www.renatamachado.tech/
+**Testing**
+Jest · Playwright · React Testing Library
 
-<br />
-<br />
+**Cloud & Tools**
+AWS · Firebase · Docker
 
+**Databases**
+PostgreSQL · MongoDB
 
+---
+
+### 🌱 About me
+
+I enjoy working on challenging problems, collaborating with teams, and continuously improving both technical and product decisions.
+I'm especially interested in building scalable front-end architectures and improving user experience through data and experimentation.
+
+---
