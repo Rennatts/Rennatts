@@ -9,6 +9,7 @@ I'm a Front-End Engineer focused on building scalable, high-performance applicat
 * 🧠 Experience with **state management (XState, RxJS)** and complex flows
 * 📊 Focus on **performance, user experience and scalability**
 * 🌍 Experience with international products (i18n, multi-country platforms)
+* 🤖 AI enthusiast — always exploring new developments and building AI agents for fun
 * 🇰🇷 Lived in South Korea for 4 years — 한국어 가능
 
 ---
@@ -37,7 +38,10 @@ PostgreSQL · MongoDB
 
 ### 🌱 About me
 
-I enjoy working on challenging problems, collaborating with teams, and continuously improving both technical and product decisions.
-I'm especially interested in building scalable front-end architectures and improving user experience through data and experimentation.
+Outside of work, I enjoy diving into **classic literature, history and psychology books**.
+My favorite book is *Les Misérables* by Victor Hugo.
+
+I also enjoy watching documentaries, exploring new ideas, and understanding how people and systems work.
+☕ Coffee is part of my daily routine, and yes — I'm definitely a dog person 🐶
 
 ---
