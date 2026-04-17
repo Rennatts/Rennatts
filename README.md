@@ -3,7 +3,6 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/UWZa4tQ1TXLJFEkuGP/giphy.gif" width="350px"/>
 
 I'm a Front-End Engineer focused on building scalable, high-performance applications with modern architectures.
-I have experience working on global products, collaborating closely with product teams, and driving technical decisions.
 
 * 💻 Strong experience with **React, Next.js and micro front-end architectures**
 * 🚀 Acting as **main developer**, bridging technical and product decisions
